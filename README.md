@@ -8,45 +8,45 @@ This project showcases a complete data analytics workflow, starting from raw dat
 
 ##  Project Goals
 
-Clean and prepare raw data for analysis
-Apply analytical techniques to explore the dataset
-Design clear and interactive visualizations
-Extract useful insights and present conclusions
+1.Clean and prepare raw data for analysis
+2.Apply analytical techniques to explore the dataset
+3.Design clear and interactive visualizations
+4.Extract useful insights and present conclusions
 
 ---
 
 ##  Technologies & Tools
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
-SQL for querying data
-Power BI for dashboard creation
-Microsoft Excel for data handling
+1.Python (Pandas, NumPy, Matplotlib, Seaborn)
+2.SQL for querying data
+3.Power BI for dashboard creation
+4.Microsoft Excel for data handling
 
 ---
 
 ##  Workflow
 
-Gathering the dataset
-Data preprocessing and cleaning
-Transforming data into usable format
-Performing analysis
-Creating visual representations
+1.Gathering the dataset
+2.Data preprocessing and cleaning
+3.Transforming data into usable format
+4.Performing analysis
+5.Creating visual representations
 
 ---
 
 ##  Outcomes
 
-Discovered important trends and relationships
-Developed dashboards for data visualization
-Produced insights to support decision-making
+1.Discovered important trends and relationships
+2.Developed dashboards for data visualization
+3.Produced insights to support decision-making
 
 ---
 
 ##  Getting Started
 
-Clone this repository
-Open the project files using Python, Power BI, or Excel
-Execute the analysis and explore the dashboards
+1.Clone this repository
+2.Open the project files using Python, Power BI, or Excel
+3.Execute the analysis and explore the dashboards
 
 ---
 
